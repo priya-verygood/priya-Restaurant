@@ -1,6 +1,11 @@
 h1{
     color: red;
 }
+.fa-user-chef
+{
+    font-size: 70;
+    color: black;
+}
 .idli{
     color: red;
     font-size: 70px;
