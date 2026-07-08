@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+.biryani
+{
+    border-radius:50%;
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+.dosa
+{
+  border-radius: 50%;
+  width: 500;
+  height: 500;
+  object-fit: cover;
+}
+body
+{
+    background-color: greenyellow;
+}
+#p
+{
+    color: black;
+}
+
